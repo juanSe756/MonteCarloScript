@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\bin\Debug\net7.0\src.exe
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\bin\Debug\net7.0\src.deps.json
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\bin\Debug\net7.0\src.runtimeconfig.json
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\bin\Debug\net7.0\src.dll
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\bin\Debug\net7.0\src.pdb
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.AssemblyInfo.cs
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.dll
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\refint\src.dll
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.pdb
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\src.genruntimeconfig.cache
+C:\Users\Sebastian\Documents\UPTC\2023-1\Simulación\ScriptMonteCarlo\src\obj\Debug\net7.0\ref\src.dll
